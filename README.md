@@ -12,6 +12,13 @@
 - Timeline business: 1/1/2012 - 31/12/2015.
 - The company operates in multiple markets : Asia, Africa, US, EMEA, Europe, LATAM.
 
+## Step 
+- Convert data to the appropriate format.
+- Inserting data into SQL, cleaning, and merging data columns.
+- Transfer data into Power BI Queries, filter out inappropriate data.
+- Visual.
+- Identify unique insights and discover causes.
+- Propose hypotheses and make decisions.
 ## Insight 
 - Profits from all markets rose consistently until 2015. The EMEA market vanished, propelling the US market to the top with a 2.5-fold increase, while the Asian market sharply halved.
 - The profit margin can be observed to have steadily increased from 2012 to 2014, but experienced a sharp decline in the following year.
